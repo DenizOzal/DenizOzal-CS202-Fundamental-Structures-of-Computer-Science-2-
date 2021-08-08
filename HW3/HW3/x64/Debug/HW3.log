@@ -1,0 +1,9 @@
+﻿  BinaryNode.cpp
+  Dictionary23Tree.cpp
+  DictionaryAVLTree.cpp
+  DictionaryBST.cpp
+  DictionarySearchTree.cpp
+  main.cpp
+  Generating Code...
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS202\Homework\HW3\HW3\DictionaryBST.cpp(52): warning C4715: 'DictionaryBST::searchTreeinsert': not all control paths return a value
+  HW3.vcxproj -> C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS202\Homework\HW3\HW3\x64\Debug\HW3.exe

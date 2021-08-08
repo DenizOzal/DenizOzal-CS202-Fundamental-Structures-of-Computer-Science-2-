@@ -1,0 +1,3 @@
+#std=c++11 is used because some functions works only in this compiler version
+hw3: 	BinaryNode.h BinaryNode.h Dictionary23Tree.h Dictionary23Tree.cpp DictionaryAVLTree.h DictionaryAVLTree.cpp DictionaryBST.h DictionaryBST.cpp DictionarySearchTree.h DictionarySearchTree.cpp main.cpp
+	g++ -std=c++11 *.cpp -o hw3
